@@ -1,1 +1,4 @@
-# comments-section_Zhai-Tianlin
+- Word cloud creation and sentiment analysis of the comment section of Zhai Tianlin
+- "chinese_word_vectors\sgns.weibo.bigram" can be loaded from https://github.com/Embedding/Chinese-Word-Vectors
+- "psy_model.keras" can be obtained by running the main function of emotion.py
+- skills used: tensorflow, request, matplotlib, numpy, pandas
