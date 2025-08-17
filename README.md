@@ -1,4 +1,5 @@
-- Word cloud creation and sentiment analysis of the comment section of Zhai Tianlin
+- The year Tianlin 1 (2019) was of great significance to every graduate.
+- Web scraping of comments on Zhai Tianlin's Weibo - Word cloud drawing - Sentiment analysis
 - "chinese_word_vectors\sgns.weibo.bigram" can be loaded from https://github.com/Embedding/Chinese-Word-Vectors
-- "psy_model.keras" can be obtained by running the main function of emotion.py
 - skills used: tensorflow, request, matplotlib, numpy, pandas
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/f6b89fb9-ce59-42ab-bb0e-364175e56682" />
